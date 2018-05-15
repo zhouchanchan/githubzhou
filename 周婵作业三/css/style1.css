@@ -1,0 +1,133 @@
+* {
+    padding: 0;
+    margin: 0%
+}
+
+.nav1 {
+    position: fixed;
+    top: 0;
+    right: 0;
+    width: 50px;
+    height: 200px;
+    line-height: 5px;
+}
+
+.top {
+    position: fixed;
+    width: 100%;
+    height: 100px;
+    background: whitesmoke;
+}
+
+.logo {
+    margin-left: 200px;
+    width: 200px;
+    height: 100px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.nav {
+    position: absolute;
+    top: 0;
+    right: 300px;
+    height: 100px;
+    line-height: 150px;
+}
+
+.nav li {
+    display: inline-block;
+    width: 110px;
+}
+
+.nav li a {
+    color: blueviolet;
+}
+
+.nav li :hover {
+    color: red;
+    font-family: STXingkai;
+    font-size: 1.5em;
+}
+
+.me {
+    font-size: 50px;
+    font-family: STXingkai;
+    text-align: center;
+}
+
+.num {
+    text-align: center;
+}
+
+.num li {
+    display: inline-block;
+    width: 350px;
+}
+
+.line {
+    border-top: 3px solid#0ba1e4;
+    width: 100px;
+    margin-left: 45%;
+}
+
+.num1 {
+    font-size: 5em;
+    color: blue;
+}
+
+.cha {
+    margin-left: 20%;
+}
+
+.box2 {
+    background: #E6E6E6;
+}
+
+.me2 {
+    background: white;
+}
+
+.me1 {
+    text-align: center;
+}
+
+.me1 li {
+    display: inline-block;
+}
+
+.me1 li :hover {
+    background: #4169E1;
+}
+
+.me2 {
+    background: white;
+    text-align: center;
+}
+
+.me2 li {
+    display: inline-block;
+    margin: 10px;
+    text-align: center;
+}
+
+.box3 {
+    background: white;
+}
+
+.me2 li:hover {
+    color: red;
+    background: #4169E1;
+    font-family: STXingkai;
+    font-size: 30px;
+}
+.button{
+    color:blueviolet;
+    margin-left: 45%;
+    size: 100px;
+}
+.button:hover{
+    color:red;
+}

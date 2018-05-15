@@ -1,0 +1,68 @@
+	
+	#all{margin:0 auto; width:1400px; height:1200px; background-image:url(../images/yezi.jpg);}
+	#header{width:1400px; height:200px; border:2px;}
+	
+	.headerlogo{width:1400px; height:80px; float:left; margin:0px; border:0px; background-color:rgb(70,194,255);}
+	.headerlogo ul{float:right; font-family:华文琥珀; font-size:15px; clear:both;}
+	.headerlogo ul li{list-style:none; float:left; margin-top:20px; margin-right:30px;
+	display:block; font-size:20px;}
+	.nav{height:20px;width:2px;background:white;}
+	.headerlogo a:link{color:rgb(0,114,227);}
+	.headerlogo a:hover{display:block; background:rgb(220,220,220);}
+	h1{ float:left; font-family:幼圆; font-size:25px; color:green;}
+	.hderimage{width:700px; height:80px; background-image:url(../images/logo1.jpg);}
+	.hderdown{width:1400px; height:200px; background-color:#451232; float:left;}
+	.hddleft{width:500px; height:200px; float:left; background-image:url(../images/moban1.jpg); }
+	.hddright{width:900px; height:200px; float:left; background-image:url(../images/beijing.jpg);}
+	.hddright a{font-family:方正舒体; font-size:30px; font-weight:blod; line-height:20px; }
+	.hddright a:hover{cursor:hand; display:inline; background:rgb(220,220,220);}
+	.hddright ul{float:right; font-family:华文琥珀; font-size:15px; clear:both;}
+	.hddright ul li{list-style:none; float:left; margin-top:20px; margin-right:16px; display:block; font-size:20px;}
+	.navd{height:25px; width:2px; background:rgb(70,194,255);}
+	.hddmore{height:30px; width:100px; background-color:rgb(70,194,255); float:right; margin-bottom:0px; font-family:幼圆; font-size:50px; text-align:center;}
+	
+	#left{width:500px; height:800px; float:left; margin:0px; border:0px;
+	background-image:url(../images/caoye.jpg);}
+	#leftup{width:500px; height:400px; float:left; background-color:#782233;}
+	.ltuplogo{width:500px; height:100px; background-image:url(../images/ltuplogo.jpg)}
+	#leftup ol li{color:rgb(148,27,54); font-family:华文琥珀; font-size:18px; margin-top:10px; line-height:15px;}
+	.ltupdown{float:left; width:500px; height:300px; background-image:url(../images/ltupdown.jpg)}
+	.ltupdown a:hover{display:block; background:rgb(0,230,230);}
+	.ltol{float:left; width:300px; height:300px;}
+	.ltnumber{float:right; width:200px; height:200px;}
+	.ltnumber ul li{list-style:none; font-family:方正舒体; line-height:18px; font-size:25px; margin-top:10px;  color:rgb(148,27,54);}
+	#leftdn{width:500px; height:400px; float:left; background-color:351212;}
+	.ltdm{width:500px; height:50px; float:left; text-align:right; font-family:华文琥珀; font-size:40px; background-image:url(../images/bgimage.jpg);}
+	.ltdm span{float:left; margin-left:20px; color:rgb(0,114,227);}
+	
+	.ltdmain{width:500px; height:350px; float:left; background-image:url(../images/bga.jpg);}
+	.ltmainl{width:250px; height:350px; float:left;}
+	.ltmainr{width:250px; height:350px; float:left;}
+	.ltdmain ul li{list-style:none; font-family:方正舒体; color:black; font-size:25px; margin-top:13px;}
+	
+	.ltmainl a:link{color:rgb(70,194,255);}
+	.ltmainl a:hover{display:block; background:rgb(220,220,220);} 
+
+	#righttop{width:900px; height:400px; float:right;background-image:url(../images/niao1.jpg);}
+	
+	#rightdown{width:900px; height:400px; float:left; background-color:#453212;}
+    .naver{width:898px; height:50px; float:right; text-align:left; font-family:华文琥珀; font-size:40px; background-image:url(../images/bgimage.jpg);  border-left:2px solid pink;}
+    .naver span{color:rgb(0,114,227); margin-left:20px;}}
+
+	.picture{width:900px; border-left:2px solid pink;}
+	.picture table{background-image:url(../images/bga.jpg); width:900px;}
+	.text{text-align:center; font-family:方正舒体;font-size:25px;} 
+	#last{width:1400px; height:200px; float:left;}
+	.hot{width:1400px; height:100px; float:left; background-image:url(../images/hot.jpg); border:2px solid rgb(0,114,227); margin-top:2px;}
+	.hot table tr td{font-size:15px; font-weight:bold;}
+	.hot a:link{color:black;}
+	.hot a:hover{display:block; background:rgb(220,220,220);}
+	.banquan{width:1400px; height:100px; float:left; background-image:url(../images/shixin.jpg); margin-top:3px;}
+	.banquan ul{float:left; font-family:黑体; font-size:15px; }
+	.banquan ul li{list-style:none; float:left; margin-right:10px;}
+	.banquan a{color:black;}
+	.nav1{height:20px; width:2px; background:black;}
+	.statement{margin:0 auto; height:40px; width:600px; margin-top:10px;}
+	.myself{margin:0 auto; height:40px; width:250px; margin-top:10px;}
+	.myself span{font-family:黑体; font-size:15px;}
+	

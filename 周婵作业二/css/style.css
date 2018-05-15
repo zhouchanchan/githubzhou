@@ -1,0 +1,150 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+.top {
+    height: 100px;
+    background: black;
+}
+
+.logo {
+    background:yellow;
+    width: 200px;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.logo image {
+    height: 200ox;
+    width: 200px;
+}
+
+.nav {
+    position: absolute;
+    right: 100px;
+    top: 0;
+    height: 100px;
+    line-height: 100px;
+}
+
+.nav li {
+    display: inline-block;
+    width: 50px;
+}
+
+.nav li a {
+    color: white;
+}
+
+.nav li a:hover {
+    color: red;
+    font-family: cursive;
+    font-size: 30px;
+}
+
+.main {
+    background: pink;
+    padding: 50px 50px;
+    position:relative;
+}
+
+.box {
+    width: 700px;
+    background: white;
+    padding: 100px;
+    margin-bottom: 100px;
+}
+
+.box {
+    font-family:STXingkai;
+    font-size:30px;
+}
+
+li{
+    list-style: square;
+}
+
+.qw{
+    width: 150px;
+}
+.box box2{
+     color:purple;
+     font-family: 'Courier New', Courier, monospace;
+}
+.wrap{
+    position:relative;
+    height:300px
+}
+.wrap div{
+    width:100px;
+    height: 100;
+    background: black;
+    position:absolute;
+}
+.wrap1{
+    left:0;
+    top:0;
+}
+.wrap2{
+    right:0;
+    top:0;
+}
+.wrap3{
+    left:50%;
+    top:50%;
+    margin:-50px 0 0 -50px;
+}
+.wrap4{
+    left:0;
+    bottom:0;
+}
+.wrap5{
+    right:0;
+    bottom:0;
+}
+.formBox{
+    width:500px;
+    height:300px;
+    background:yellow;
+    padding:20px;
+    position:absolute;
+    top:50px;
+    right:0;
+}
+.formBox .title{
+    border-left:5px solid white;
+    padding-left: 20PX;
+    margin-bottom:20px;
+
+}
+.item{
+    height:40px;
+    inline-height:40px;
+}
+.describe{
+    height:30px;
+}
+.item-title {
+    vertical-align:top;
+    height:200px;
+
+}
+.bottom{
+    height:100px;
+    background:yellow;
+    font-size:30px;
+    margin:0 auto;
+    width:100%;
+    height:100px;
+    line-height:100px;
+    border:0px;
+
+    
+}
+
+div {}
